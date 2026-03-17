@@ -61,8 +61,15 @@ else:
     print("\nInsight: The review tone is neutral or negative.")
 
 Output:
+
+
+
 positive output:
 <img width="1045" height="245" alt="image" src="https://github.com/user-attachments/assets/e4c4033b-1431-4fe2-b246-645df46ffa80" />
+
+Negative and Neutral output:
+
+
 ![Screenshot_17-3-2026_113520_colab research google com](https://github.com/user-attachments/assets/6a28c75d-0438-4ad4-a960-b62c7e303f11)
 
 Result: 
